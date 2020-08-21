@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/QuyNhatGaming/PvPLevels_VH
+build-by-default: true
+branches:
+- master
+projects: []
+...
